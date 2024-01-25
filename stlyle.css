@@ -1,0 +1,54 @@
+header,footer{
+    display: flex;
+    justify-content:center ;
+    align-items: center;
+    background-color:red;
+}
+.nav{
+    display: flex;
+    gap: 30px;
+}
+.first{
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+    align-items: center;
+    padding-top: 100px;
+    background-color: aqua;
+}
+.second{
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+    align-items: center;
+    padding-top: 100px;
+    background-color: bisque;
+    text-decoration: none;
+    font-size: 15px;
+    color: green;
+    transition: 2s
+}
+.third{
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+    align-items: center;
+    padding-top: 100px;
+    background-color: palegreen;
+    text-decoration: none;
+    font-size: 15px;
+    color: red;
+    transition: 2s
+}
+.two{
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+    align-items: center;
+    padding-top: 100px;
+    background-color: aquamarine;
+    text-decoration: none;
+        font-size: 15px;
+        color: blue;
+        transition: 2s
+}
